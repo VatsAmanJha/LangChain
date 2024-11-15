@@ -1,0 +1,64 @@
+{
+    "students": [
+        {
+            "name": "Aman Kumar Jha",
+            "roll_no": "BETN1CS22059",
+            "course": "B.Tech CSE AIML",
+            "batch_year": "2022-2026"
+        },
+        {
+            "name": "Rahul Singh",
+            "roll_no": "BETN1CS22012",
+            "course": "B.Tech CSE AI",
+            "batch_year": "2022-2026"
+        },
+        {
+            "name": "Priya Sharma",
+            "roll_no": "BETN1CS22045",
+            "course": "B.Tech IT",
+            "batch_year": "2022-2026"
+        },
+        {
+            "name": "Ankita Das",
+            "roll_no": "BETN1CS22022",
+            "course": "B.Tech CSE Data Science",
+            "batch_year": "2022-2026"
+        },
+        {
+            "name": "Vikram Verma",
+            "roll_no": "BETN1CS22035",
+            "course": "B.Tech CSE Cybersecurity",
+            "batch_year": "2022-2026"
+        },
+        {
+            "name": "Mehul Patel",
+            "roll_no": "BETN1CS22018",
+            "course": "B.Tech Mechanical",
+            "batch_year": "2022-2026"
+        },
+        {
+            "name": "Isha Kapoor",
+            "roll_no": "BETN1CS22027",
+            "course": "B.Tech ECE",
+            "batch_year": "2022-2026"
+        },
+        {
+            "name": "Karan Malhotra",
+            "roll_no": "BETN1CS22039",
+            "course": "B.Tech Electrical",
+            "batch_year": "2022-2026"
+        },
+        {
+            "name": "Sneha Gupta",
+            "roll_no": "BETN1CS22050",
+            "course": "B.Tech Civil",
+            "batch_year": "2022-2026"
+        },
+        {
+            "name": "Arjun Roy",
+            "roll_no": "BETN1CS22006",
+            "course": "B.Tech CSE AIML",
+            "batch_year": "2022-2026"
+        }
+    ]
+}
